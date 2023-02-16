@@ -1,3 +1,1 @@
-
-#!/bin/bash 0-current_working directory
-variables
+this si cool
